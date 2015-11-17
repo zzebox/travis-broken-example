@@ -1,3 +1,3 @@
 $ git add -A 'zzebox'
-$ git commit -m 'Testing Travis CI zz fixed the test'
+$ git commit -m 'Testing Travis CI zz fixed the test !'
 $ git push
